@@ -12,4 +12,4 @@ Yazılım Mühendisliği 2.Sınıf Nesneye Yönelik Programlama dersi ödevim
 -İçiçe class (en az 1).
 
 ## Çalıştırma
-NetBeans, Eclipse gibi IDE'leri kullanarak projeyi çalıştırabilirsiniz.
+Herhangi bir IDE kullanarak projeyi açabilirsiniz. Kodlar src/proje 'nin altındadır. Main dosyanın adı Proje.java 'dır.
